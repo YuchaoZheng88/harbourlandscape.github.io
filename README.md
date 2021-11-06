@@ -30,7 +30,7 @@
 ### 3. Garden build:
   - Design: 500 CND for a 2000 sqft lot.
   - Build: According to your design, from 29000 CND for a normal (2000 sqft) single family, including material and labors.
-  - Clean up: After build the garden, no waste can be seen, and the garden is nice and clean. Usually 900 CND.
+  - Clean up: After building, no waste can be seen, and the garden is nice and clean. Usually 900 CND.
 
 ---
 
